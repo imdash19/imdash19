@@ -7,8 +7,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/imdash19)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/bibhuti-bhusan-dash-635195264/))
+[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=imdash19&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
