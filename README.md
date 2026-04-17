@@ -1,14 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=58a6ff&fontAlignY=55&animation=fadeIn" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2d3d,100:0d1117&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=38&fontColor=58a6ff&fontAlignY=55&desc=Python%20%26%20Django%20Developer&descSize=16&descAlignY=75&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%26+Django+Developer;Building+Scalable+Web+Apps;Open+to+Junior+%2F+Entry-Level+Roles" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Open+to+Junior+%2F+Entry-Level+Roles+%F0%9F%92%BC;Clean+Code+%7C+Continuous+Learner+%F0%9F%8C%B1" alt="Typing SVG"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/imdash19)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/bibhuti-bhusan-dash-635195264/))
-[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
+<!-- STATUS -->
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Junior%20%2F%20Entry--Level%20Roles-2ea043?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/imdash19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO)
 ![Profile Views](https://komarev.com/ghpvc/?username=imdash19&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
@@ -17,18 +26,58 @@
 
 ## 👨‍💻 About Me
 
-Backend-focused developer with hands-on experience building **RESTful APIs** and full-stack web applications using **Python & Django**. I care about clean architecture, maintainable code, and shipping things that actually work.
-
 ```python
-developer = {
-    "name":      "Bibhuti Bhusan Dash",
-    "focus":     ["Backend Development", "API Design", "Full-Stack Web"],
-    "stack":     ["Python", "Django", "DRF", "PostgreSQL", "React"],
-    "status":    "Open to junior / entry-level developer roles",
-    "learning":  ["Docker", "Celery", "System Design"],
-    "values":    ["Clean code", "Continuous learning", "Team collaboration"]
-}
+class Developer:
+    def __init__(self):
+        self.name      = "Bibhuti Bhusan Dash"
+        self.role      = "Python & Django Developer"
+        self.location  = "India 🇮🇳"
+        self.stack     = ["Python", "Django", "DRF", "PostgreSQL", "React"]
+        self.learning  = ["Docker", "Celery", "System Design"]
+        self.open_to   = "Junior / Entry-Level Developer Roles"
+        self.fun_fact  = "I debug best at 2am 🌙"
+        # Clean code · Continuous learning · Ship it
 ```
+
+> Backend-focused developer who loves building clean, scalable APIs and web apps. Strong foundation in Python and Django — actively seeking a team where I can grow, contribute, and ship real things.
+
+---
+
+## 🔥 GitHub Streak & Stats
+
+<div align="center">
+
+<!-- STREAK STATS -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=imdash19&theme=tokyonight&hide_border=true&fire=FF6E00&ring=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&background=0D1117&stroke=21262D" height="180"/>
+
+<br/>
+
+<!-- GITHUB STATS + TOP LANGS -->
+<img src="https://github-readme-stats.vercel.app/api?username=imdash19&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&border_color=21262D&include_all_commits=true&count_private=false&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=21262D" height="170"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&bg_color=0d1117&color=58a6ff&line=58a6ff&point=a371f7&area=true&hide_border=true&area_color=1f2d3d" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imdash19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%"/>
+
+</div>
 
 ---
 
@@ -60,50 +109,59 @@ developer = {
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imdash19&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=imdash19&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-> Coming soon — currently building. Browse my [repositories →](https://github.com/imdash19?tab=repositories)
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| 🔧 *Work in progress* | Python · Django · REST | — |
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| 🔐 **Auth API** | JWT-based auth with token refresh & role-based access control | Django · DRF · JWT | [View →](https://github.com/imdash19) |
+| 🛒 **E-Commerce API** | Full REST backend — catalog, cart, orders, payments | Python · Django · PostgreSQL | [View →](https://github.com/imdash19) |
+| 📊 **Data Dashboard** | Data viz app with Pandas & Matplotlib, React frontend | React · Pandas · Matplotlib | [View →](https://github.com/imdash19) |
+| 🔧 **More coming...** | Currently building — stay tuned | — | [Repos →](https://github.com/imdash19?tab=repositories) |
 
 ---
 
 ## 🌱 Currently Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="18"/> Flask / FastAPI — building high-performance APIs & lightweight backend services
-⚙️ Async Processing — background tasks, async endpoints & event-driven workflows
+<div align="center">
+
+| 🐋 Docker | ⚙️ Celery | 📐 System Design | ☁️ AWS Basics |
+|-----------|-----------|------------------|---------------|
+| Containerized deployments | Async task queues | Scalability patterns | Cloud fundamentals |
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Facts
 
-I debug best at 2am — probably because that's when Stack Overflow is least crowded.
+- 🌙 I debug best at **2am** — when Stack Overflow is finally quiet
+- ☕ Coffee-to-code conversion ratio: **1:1**
+- 🐍 Python wasn't my first language — but it became my favourite
+- 🧩 I treat every bug as a puzzle, not a problem
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-imdash19-%23121011?style=for-the-badge&logo=github)](https://github.com/imdash19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bibhuti-bhusan-dash-635195264/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2d3d,100:0d1117&height=100&section=footer" width="100%"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
