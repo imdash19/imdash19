@@ -17,7 +17,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/imdash19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO)
 ![Profile Views](https://komarev.com/ghpvc/?username=imdash19&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
@@ -33,7 +32,7 @@ class Developer:
         self.role      = "Python & Django Developer"
         self.location  = "India 🇮🇳"
         self.stack     = ["Python", "Django", "DRF", "PostgreSQL", "React"]
-        self.learning  = ["Docker", "Celery", "System Design"]
+        self.learning  = ["Flask", "FastAPI"]
         self.open_to   = "Junior / Entry-Level Developer Roles"
         self.fun_fact  = "I debug best at 2am 🌙"
         # Clean code · Continuous learning · Ship it
@@ -45,16 +44,19 @@ class Developer:
 
 ## 🔥 GitHub Streak & Stats
 
+> **These cards pull your live GitHub data automatically every time someone visits your profile.**
+
 <div align="center">
 
-<!-- STREAK STATS -->
+<!-- STREAK — fetches live: current streak, longest streak, total contributions -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=imdash19&theme=tokyonight&hide_border=true&fire=FF6E00&ring=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&background=0D1117&stroke=21262D" height="180"/>
 
 <br/>
 
-<!-- GITHUB STATS + TOP LANGS -->
+<!-- STATS — fetches live: commits, PRs, issues, stars, rank -->
 <img src="https://github-readme-stats.vercel.app/api?username=imdash19&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&border_color=21262D&include_all_commits=true&count_private=false&rank_icon=github" height="170"/>
 &nbsp;
+<!-- TOP LANGS — fetches live: auto-detects languages from all your repos -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=21262D" height="170"/>
 
 </div>
@@ -63,19 +65,22 @@ class Developer:
 
 ## 📈 Contribution Graph
 
+> **Auto-generated from your real commit history.**
+
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&bg_color=0d1117&color=58a6ff&line=58a6ff&point=a371f7&area=true&hide_border=true&area_color=1f2d3d" width="100%"/>
-
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
+> **Trophies unlock progressively as you push more commits, get stars, and gain followers — they will fill in automatically over time.**
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=imdash19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%"/>
+<!-- Shows ALL trophies including beginner ranks (C, B) — no blank state -->
+<img src="https://github-profile-trophy.vercel.app/?username=imdash19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
@@ -114,14 +119,18 @@ class Developer:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| 🔐 **Auth API** | JWT-based auth with token refresh & role-based access control | Django · DRF · JWT | [View →](https://github.com/imdash19) |
-| 🛒 **E-Commerce API** | Full REST backend — catalog, cart, orders, payments | Python · Django · PostgreSQL | [View →](https://github.com/imdash19) |
-| 📊 **Data Dashboard** | Data viz app with Pandas & Matplotlib, React frontend | React · Pandas · Matplotlib | [View →](https://github.com/imdash19) |
-| 🔧 **More coming...** | Currently building — stay tuned | — | [Repos →](https://github.com/imdash19?tab=repositories) |
+> **Replace each row below with your actual GitHub repos. The link column should point to the real repo URL.**
+> **To add a new project:** copy any row, paste it below, and update the name, description, stack, and link.
+
+| # | Project | Description | Stack | Repo |
+|---|---------|-------------|-------|------|
+| 1 | 🔐 **Auth API** | JWT-based auth with token refresh & role-based access | Django · DRF · JWT | [View →](https://github.com/imdash19/REPO_NAME) |
+| 2 | 🛒 **E-Commerce API** | REST backend — catalog, cart, orders | Python · Django · PostgreSQL | [View →](https://github.com/imdash19/REPO_NAME) |
+| 3 | 📊 **Data Dashboard** | Data viz with Pandas & Matplotlib, React frontend | React · Pandas · Matplotlib | [View →](https://github.com/imdash19/REPO_NAME) |
+
+*Replace `REPO_NAME` in each link with your actual repository name from GitHub.*
 
 ---
 
@@ -129,9 +138,9 @@ class Developer:
 
 <div align="center">
 
-| 🐋 Docker | ⚙️ Celery | 📐 System Design | ☁️ AWS Basics |
-|-----------|-----------|------------------|---------------|
-| Containerized deployments | Async task queues | Scalability patterns | Cloud fundamentals |
+| ⚡ Flask | 🚀 FastAPI |
+|---------|-----------|
+| Lightweight Python web framework for building simple, fast APIs and microservices | Modern async Python framework — fast, auto-documented, production-ready |
 
 </div>
 
@@ -151,8 +160,8 @@ class Developer:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-imdash19-%23121011?style=for-the-badge&logo=github)](https://github.com/imdash19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bibhuti-bhusan-dash-635195264/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
