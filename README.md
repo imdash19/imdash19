@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving%26color=0:0d1117,50:1f2d3d,100:0d1117%26height=180%26section=header%26text=Bibhuti%20Bhusan%20Dash%26fontSize=38%26fontColor=58a6ff%26fontAlignY=55%26desc=Python%20%26%20Django%20Developer%26descSize=16%26descAlignY=75%26descColor=8b949e%26animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=fff&fontAlignY=55&desc=Python%20%26%20Django%20Developer&descAlignY=75&descColor=ccc&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=600%26size=22%26pause=1000%26color=58A6FF%26center=true%26vCenter=true%26width=600%26lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Open+to+Junior+%2F+Entry-Level+Roles+%F0%9F%92%BC;Clean+Code+%7C+Continuous+Learner+%F0%9F%8C%B1" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs;Open+to+Junior+%2F+Entry-Level+Roles;Always+Learning+%F0%9F%8C%B1)
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Junior%20%2F%20Entry--Level%20Roles-2ea043?style=for-the-badge"/>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square%26logo=github%26logoColor=white)](https://github.com/imdash19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square%26logo=linkedin%26logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square%26logo=gmail%26logoColor=white)](mailto:YOUR_EMAIL)
-![Profile Views](https://komarev.com/ghpvc/?username=imdash19%26style=flat-square%26color=58a6ff%26label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-imdash19-181717?style=for-the-badge&logo=github)](https://github.com/imdash19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=imdash19.imdash19)
 
 </div>
 
@@ -31,24 +31,60 @@ class Developer:
         self.learning  = ["Flask", "FastAPI"]
         self.open_to   = "Junior / Entry-Level Developer Roles"
         self.fun_fact  = "I debug best at 2am 🌙"
-        # Clean code · Continuous learning · Ship it
 ```
 
-> Backend-focused developer who loves building clean, scalable APIs and web apps. Strong foundation in Python and Django — actively seeking a team where I can grow, contribute, and ship real things.
+> Backend developer focused on building clean REST APIs and scalable web apps with Python & Django. Actively looking for a junior role where I can contribute, learn, and grow.
 
 ---
 
-## 🔥 GitHub Streak & Stats
+## 🛠️ Tech Stack
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Frontend**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=imdash19%26theme=tokyonight%26hide_border=true%26fire=FF6E00%26ring=58A6FF%26currStreakLabel=58A6FF%26sideLabels=8b949e%26dates=8b949e%26background=0D1117%26stroke=21262D" height="180"/>
+![streak](https://nirzak-streak-stats.vercel.app/?user=imdash19&theme=tokyonight&hide_border=true)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=imdash19%26theme=tokyonight%26hide_border=true%26show_icons=true%26bg_color=0D1117%26title_color=58A6FF%26icon_color=A371F7%26text_color=C9D1D9%26border_color=21262D%26include_all_commits=true%26count_private=false%26rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19%26theme=tokyonight%26hide_border=true%26layout=compact%26bg_color=0D1117%26title_color=58A6FF%26text_color=C9D1D9%26border_color=21262D" height="170"/>
+![stats](https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -57,72 +93,38 @@ class Developer:
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19%26bg_color=0d1117%26color=58a6ff%26line=58a6ff%26point=a371f7%26area=true%26hide_border=true%26area_color=1f2d3d" width="100%"/>
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=imdash19&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
-
----
-
-## 🛠 Tech Stack
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge%26logo=python%26logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge%26logo=django%26logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge%26logo=django%26logoColor=white%26labelColor=gray)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge%26logo=JSON%20web%20tokens)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge%26logo=html5%26logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge%26logo=css3%26logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge%26logo=javascript%26logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge%26logo=react%26logoColor=%2361DAFB)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge%26logo=postgresql%26logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge%26logo=mysql%26logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge%26logo=mongodb%26logoColor=white)
-
-**Data & Tools**
-
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge%26logo=numpy%26logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge%26logo=pandas%26logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge%26logo=Matplotlib%26logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge%26logo=github%26logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge%26logo=visual-studio-code%26logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge%26logo=postman%26logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
 
-<div align="center">
-
 | ⚡ Flask | 🚀 FastAPI |
-|---------|-----------|
-| Lightweight Python web framework for building simple, fast APIs and microservices | Modern async Python framework — fast, auto-documented, production-ready |
-
-</div>
+|:---:|:---:|
+| Lightweight Python web framework | Modern async Python API framework |
+| Great for microservices & simple apps | Auto-docs, fast, production-ready |
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🌙 I debug best at **2am** — when Stack Overflow is finally quiet
-- ☕ Coffee-to-code conversion ratio: **1:1**
-- 🐍 Python wasn't my first language — but it became my favourite
-- 🧩 I treat every bug as a puzzle, not a problem
+- 🌙 I debug best at **2am** — Stack Overflow is quietest then
+- ☕ Coffee-to-code ratio: **1 : 1**
+- 🐍 Python became my favourite language and never let go
+- 🧩 Every bug is just a puzzle waiting to be solved
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-imdash19-%23121011?style=for-the-badge%26logo=github)](https://github.com/imdash19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge%26logo=linkedin)](https://linkedin.com/in/bibhuti-bhusan-dash-635195264/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge%26logo=gmail%26logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-imdash19-181717?style=for-the-badge&logo=github)](https://github.com/imdash19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bibhuti-bhusan-dash-635195264/)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
 
 </div>
 
@@ -130,7 +132,7 @@ class Developer:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving%26color=0:0d1117,50:1f2d3d,100:0d1117%26height=100%26section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer)
 
 *"First, solve the problem. Then, write the code."*
 
