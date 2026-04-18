@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=fff&fontAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=fff&fontAlignY=55&animation=fadeIn)
 
 <div align="center">
 
@@ -134,4 +134,4 @@ class Developer:
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=100&section=footer)
