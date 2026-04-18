@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=58a6ff&fontAlignY=55&desc=Python%20%26%20Django%20Developer&descSize=17&descAlignY=74&descColor=8b949e&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=fff&fontAlignY=55&animation=fadeIn)
 
 <div align="center">
 
@@ -34,7 +34,7 @@ class Developer:
         self.fun_fact  = "I debug best at 2am 🌙"
 ```
 
-> Backend developer focused on building clean REST APIs and scalable web apps with Python & Django.  
+> Backend developer focused on building clean REST APIs and scalable web apps with Python & Django.
 > Actively looking for a junior role where I can contribute, learn, and grow.
 
 ---
@@ -134,4 +134,4 @@ class Developer:
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=100&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
