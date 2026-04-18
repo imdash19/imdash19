@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=fff&fontAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,2,0&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=fff&fontAlignY=55&animation=fadeIn)
 
 <div align="center">
 
@@ -11,8 +11,8 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-imdash19-181717?style=for-the-badge&logo=github)](https://github.com/imdash19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bibhuti-bhusan-dash-635195264/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imdash19.imdash19)
 
@@ -125,8 +125,8 @@ class Developer:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-imdash19-181717?style=for-the-badge&logo=github)](https://github.com/imdash19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bibhuti-bhusan-dash-635195264/)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
 
 <br/>
 
