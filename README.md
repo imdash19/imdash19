@@ -1,19 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=fff&fontAlignY=55&desc=Python%20%26%20Django%20Developer&descAlignY=75&descColor=ccc&animation=fadeIn)
+# 👋 Hi, I'm Bibhuti Bhusan Dash
 
-</div>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs;Open+to+Junior+%2F+Entry-Level+Roles;Always+Learning+%F0%9F%8C%B1)
+### Python & Django Developer · Building Scalable Web Apps
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-imdash19-181717?style=for-the-badge&logo=github)](https://github.com/imdash19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imdash19.imdash19)
+
+<br/>
+
+![open to work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Junior_%2F_Entry--Level_Roles-2ea043?style=for-the-badge)
 
 </div>
 
@@ -33,7 +34,8 @@ class Developer:
         self.fun_fact  = "I debug best at 2am 🌙"
 ```
 
-> Backend developer focused on building clean REST APIs and scalable web apps with Python & Django. Actively looking for a junior role where I can contribute, learn, and grow.
+> Backend developer focused on building clean REST APIs and scalable web apps with Python & Django.  
+> Actively looking for a junior role where I can contribute, learn, and grow.
 
 ---
 
@@ -78,13 +80,13 @@ class Developer:
 
 <div align="center">
 
-![streak](https://nirzak-streak-stats.vercel.app/?user=imdash19&theme=tokyonight&hide_border=true)
+[![streak](https://nirzak-streak-stats.vercel.app/?user=imdash19&theme=tokyonight&hide_border=true)](https://github.com/imdash19)
 
 <br/>
 
-![stats](https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![stats](https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/imdash19)
 &nbsp;&nbsp;
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&theme=tokyonight&hide_border=true)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/imdash19)
 
 </div>
 
@@ -94,7 +96,7 @@ class Developer:
 
 <div align="center">
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=imdash19&theme=tokyo-night&hide_border=true&area=true)
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=imdash19&theme=tokyo-night&hide_border=true&area=true)](https://github.com/imdash19)
 
 </div>
 
@@ -123,16 +125,10 @@ class Developer:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-imdash19-181717?style=for-the-badge&logo=github)](https://github.com/imdash19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bibhuti-bhusan-dash-635195264/)
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibhutibhushandash0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-</div>
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer)
+<br/>
 
 *"First, solve the problem. Then, write the code."*
 
