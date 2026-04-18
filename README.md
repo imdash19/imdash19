@@ -1,20 +1,20 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=180&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=36&fontColor=58a6ff&fontAlignY=55&desc=Python%20%26%20Django%20Developer&descSize=17&descAlignY=74&descColor=8b949e&animation=fadeIn)
+
 <div align="center">
 
-# 👋 Hi, I'm Bibhuti Bhusan Dash
-
-### Python & Django Developer · Building Scalable Web Apps
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Open+to+Junior+%2F+Entry-Level+Roles;Clean+Code+%7C+Always+Learning+%F0%9F%8C%B1)
 
 <br/>
+
+![open to work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Junior_%2F_Entry--Level-2ea043?style=for-the-badge)
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-imdash19-181717?style=for-the-badge&logo=github)](https://github.com/imdash19)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imdash19.imdash19)
-
-<br/>
-
-![open to work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Junior_%2F_Entry--Level_Roles-2ea043?style=for-the-badge)
 
 </div>
 
@@ -133,3 +133,5 @@ class Developer:
 *"First, solve the problem. Then, write the code."*
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=100&section=footer&animation=fadeIn)
