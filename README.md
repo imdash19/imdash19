@@ -80,7 +80,7 @@ class Developer:
 
 <div align="center">
 
-[![streak](https://nirzak-streak-stats.vercel.app/?user=imdash19&theme=tokyonight&hide_border=true)](https://github.com/imdash19)
+[![streak](https://streak-stats.demolab.com?user=imdash19&theme=tokyonight&hide_border=true)](https://github.com/imdash19)
 
 <br/>
 
