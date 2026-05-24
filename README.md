@@ -9,13 +9,13 @@
      └─────────────────────────────────────────────────────────────┘ -->
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1565C0,100:58A6FF&height=230&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=44&fontColor=ffffff&fontAlignY=48&desc=Python%20%26%20Django%20Developer%20%7C%20REST%20API%20Craftsman&descSize=19&descAlignY=68&animation=fadeIn"
-  width="100%"
-  alt="Header Banner"
-/>
+<!-- Header: simple waving gradient — no desc param (unreliable), subtitle shown below -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:58A6FF&height=200&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="Bibhuti Bhusan Dash"/>
 
 </div>
+
+<!-- Subtitle line under banner -->
+<h3 align="center">🐍 Python &amp; Django Developer &nbsp;|&nbsp; REST API Craftsman &nbsp;|&nbsp; India 🇮🇳</h3>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
      │              ⚡  DYNAMIC  TYPING  ANIMATION                  │
@@ -23,23 +23,16 @@
 <div align="center">
 
 <a href="https://github.com/imdash19">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=52&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Clean+Code+%7C+Always+Learning+%F0%9F%8C%B1;Open+to+Junior+%2F+Entry-Level+Roles+%F0%9F%92%BC;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=52&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Clean+Code+%7C+Always+Learning+%F0%9F%8C%B1;Open+to+Junior+%2F+Entry-Level+Roles+%F0%9F%92%BC;Turning+Coffee+into+Code+%E2%98%95%F0%9F%92%BB" alt="Typing Animation"/>
 </a>
 
 <br/><br/>
 
 <!-- 📝 EDITABLE: Remove this badge once you land a role -->
-<img
-  src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Junior%20%2F%20Entry--Level%20Roles-2ea043?style=for-the-badge&labelColor=0d1117"
-  alt="Open to Work"
-/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Junior%20%2F%20Entry--Level%20Roles-2ea043?style=for-the-badge&labelColor=0d1117" alt="Open to Work"/>
 
 <br/><br/>
 
-<!-- Social links -->
 <a href="https://github.com/imdash19">
   <img src="https://img.shields.io/badge/GitHub-imdash19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>&nbsp;
@@ -52,17 +45,12 @@
 
 <br/><br/>
 
-<!-- Visitor counter -->
-<img
-  src="https://visitor-badge.laobi.icu/badge?page_id=imdash19.imdash19&left_color=1565C0&right_color=58A6FF&left_text=Profile%20Views"
-  alt="Profile Views"
-/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=imdash19.imdash19&left_color=1565C0&right_color=58A6FF&left_text=Profile%20Views" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
@@ -105,16 +93,12 @@ me.say_hi()
 </td>
 <td valign="top" width="42%" align="center">
 
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="270"
-  alt="Coding GIF"
-/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
 
 <br/><br/>
 
 > 🐍 Backend dev focused on **clean REST APIs**<br/>
-> & scalable web apps with **Python & Django**.<br/><br/>
+> &amp; scalable web apps with **Python &amp; Django**.<br/><br/>
 > 💼 Actively looking for a **junior role**<br/>
 > to contribute, learn &amp; grow.
 
@@ -126,30 +110,26 @@ me.say_hi()
 
 <br/>
 
-<!-- Quick-glance stats bar -->
 <div align="center">
 
 | 🔭 Working On | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
 |:---:|:---:|:---:|:---:|
-| REST APIs with DRF | Flask & FastAPI | Python · Django · APIs | Debugging at 2am 🌙 |
+| REST APIs with DRF | Flask &amp; FastAPI | Python · Django · APIs | Debugging at 2am 🌙 |
 
 </div>
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
-     │           🛠️  TECH  STACK  (collapsible categories)          │
-     │   📝 EDITABLE: open/close <details> to expand by default     │
+     │           🛠️  TECH  STACK                                    │
      └─────────────────────────────────────────────────────────────┘ -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="29"/> &nbsp;Tech Stack
 
 <div align="center">
 
-<!-- ── BACKEND ── -->
 <details open>
 <summary><b>🐍 &nbsp;Backend</b></summary>
 <br/>
@@ -162,7 +142,6 @@ me.say_hi()
 <br/>
 </details>
 
-<!-- ── FRONTEND ── -->
 <details open>
 <summary><b>🎨 &nbsp;Frontend</b></summary>
 <br/>
@@ -175,7 +154,6 @@ me.say_hi()
 <br/>
 </details>
 
-<!-- ── DATABASES ── -->
 <details open>
 <summary><b>🗄️ &nbsp;Databases</b></summary>
 <br/>
@@ -187,7 +165,6 @@ me.say_hi()
 <br/>
 </details>
 
-<!-- ── TOOLS ── -->
 <details open>
 <summary><b>🔧 &nbsp;Tools &amp; DevOps</b></summary>
 <br/>
@@ -200,7 +177,6 @@ me.say_hi()
 <br/>
 </details>
 
-<!-- ── DATA & ANALYTICS ── -->
 <details open>
 <summary><b>📊 &nbsp;Data &amp; Analytics</b></summary>
 <br/>
@@ -212,7 +188,6 @@ me.say_hi()
 <br/>
 </details>
 
-<!-- ── CURRENTLY LEARNING ── -->
 <details open>
 <summary><b>🌱 &nbsp;Currently Learning</b></summary>
 <br/>
@@ -227,7 +202,6 @@ me.say_hi()
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
@@ -269,7 +243,6 @@ me.say_hi()
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
@@ -280,37 +253,23 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Stats + Languages side by side -->
 <a href="https://github.com/imdash19">
-  <img
-    height="185"
-    src="https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10"
-    alt="GitHub Stats"
-  />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
 </a>&nbsp;
 <a href="https://github.com/imdash19">
-  <img
-    height="185"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10&langs_count=8"
-    alt="Top Languages"
-  />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<!-- Streak stats -->
 <a href="https://github.com/imdash19">
-  <img
-    src="https://streak-stats.demolab.com?user=imdash19&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&border_radius=10"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=imdash19&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&border_radius=10" alt="GitHub Streak"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ── Consistency Philosophy (streak workaround) ── -->
 <div align="center">
 
 <details>
@@ -324,7 +283,6 @@ me.say_hi()
 >
 > **My approach:** I focus on **total contributions**, **contribution density**, and
 > **weekly consistency** rather than a raw daily streak number.
-> A rest day shouldn't erase weeks of hard work.
 >
 > 💡 *"Consistency over perfection — 6 out of 7 days every week beats any fragile streak."*
 
@@ -343,7 +301,6 @@ me.say_hi()
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
@@ -355,52 +312,20 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/imdash19">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58A6FF&line=1565C0&point=58A6FF&area_color=1565C0&border_radius=10"
-    width="98%"
-    alt="Contribution Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58A6FF&line=1565C0&point=58A6FF&area_color=1565C0&border_radius=10" width="98%" alt="Contribution Activity Graph"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ┌─────────────────────────────────────────────────────────────┐
-     │                  🏆  GITHUB  TROPHIES                        │
-     └─────────────────────────────────────────────────────────────┘ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=imdash19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"
-    alt="GitHub Trophies"
-    width="98%"
-  />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
      │           🐍  CONTRIBUTION  SNAKE  ANIMATION                 │
      │                                                               │
-     │  This snake is auto-generated by the GitHub Action at:        │
-     │  .github/workflows/snake.yml  (included in this repo)         │
-     │                                                               │
-     │  It rebuilds every night at midnight UTC and on every push.   │
-     │  Both dark-mode and light-mode variants are served via the     │
-     │  `output` branch of this repository.                          │
+     │  Auto-generated daily by .github/workflows/snake.yml         │
+     │  Both dark + light mode SVGs live on the `output` branch     │
      └─────────────────────────────────────────────────────────────┘ -->
 
 ## 🐍 &nbsp;Contribution Snake
@@ -408,26 +333,15 @@ me.say_hi()
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/imdash19/imdash19/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/imdash19/imdash19/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake Animation"
-    src="https://raw.githubusercontent.com/imdash19/imdash19/output/github-contribution-grid-snake-dark.svg"
-    width="98%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imdash19/imdash19/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imdash19/imdash19/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/imdash19/imdash19/output/github-contribution-grid-snake-dark.svg" width="98%"/>
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
@@ -449,7 +363,6 @@ me.say_hi()
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
@@ -461,11 +374,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/imdash19">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"
-    alt="Dev Quote"
-    width="98%"
-  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="98%"/>
 </a>
 
 <br/><br/>
@@ -476,28 +385,6 @@ me.say_hi()
 
 <br/>
 
-<!-- ════ NEON SEPARATOR ════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ┌─────────────────────────────────────────────────────────────┐
-     │         🎵  NOW  PLAYING  (Spotify Integration)              │
-     │  📝 EDITABLE: Deploy https://github.com/novatorem/novatorem  │
-     │  and replace the URL below with your own Vercel instance.    │
-     └─────────────────────────────────────────────────────────────┘ -->
-
-## 🎵 &nbsp;Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
-
-<sub>🎧 <i>To activate: fork &amp; deploy <a href="https://github.com/novatorem/novatorem">novatorem</a>, connect Spotify, then replace the widget URL above with your own Vercel instance URL.</i></sub>
-
-</div>
-
-<br/>
-
-<!-- ════ NEON SEPARATOR ════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
@@ -520,10 +407,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=4000&color=58A6FF&center=true&vCenter=true&width=520&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22"
-  alt="Favourite Quote"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=4000&color=58A6FF&center=true&vCenter=true&width=520&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Favourite Quote"/>
 
 <br/><br/>
 
@@ -537,10 +421,7 @@ me.say_hi()
      │                   🌊  FOOTER  WAVE                          │
      └─────────────────────────────────────────────────────────────┘ -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1565C0,100:0d1117&height=130&section=footer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1565C0&height=130&section=footer" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════
      🥚  EASTER  EGG  — You found it! Here's a cookie 🍪
