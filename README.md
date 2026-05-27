@@ -136,12 +136,6 @@ print(Developer().get_greeting())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff5e00&icon_color=ff8800&text_color=c9d1d9&border_radius=10" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff5e00&text_color=c9d1d9&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=imdash19&hide_border=true&background=0d1117&ring=ff5e00&fire=ff8800&currStreakLabel=ff5e00&sideLabels=ff8800&currStreakNum=ff5e00&sideNums=ff8800&dates=c9d1d9&border_radius=10" width="100%" alt="GitHub Streak"/>
 
 </div>
