@@ -36,9 +36,9 @@
 
 ## 👨‍💻 Developer Console
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<table>
 <tr>
-<td valign="top" width="55%" style="border: none;">
+<td valign="top" width="55%">
 
 ```python
 # ==========================================
@@ -65,7 +65,7 @@ print(Developer().get_greeting())
 > 💼 **Actively looking** for a junior or entry-level software development position to build production systems and scale under elite mentorship.
 
 </td>
-<td valign="top" width="45%" style="border: none;">
+<td valign="top" width="45%">
 
 ### 📊 System Operations
 
@@ -97,26 +97,19 @@ print(Developer().get_greeting())
 ## 🛠️ Category Skill Matrix
 
 <div align="center">
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td align="center" valign="top" width="25%" style="border: none;">
-<h4>🐍 Backend Core</h4>
-<img src="https://skillicons.dev/icons?i=py,django,flask,fastapi&perline=2" alt="Backend Core Stack"/>
-</td>
-<td align="center" valign="top" width="25%" style="border: none;">
-<h4>🎨 Frontend UI</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=2" alt="Frontend UI Stack"/>
-</td>
-<td align="center" valign="top" width="25%" style="border: none;">
-<h4>🗄️ Database Hub</h4>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=2" alt="Databases Stack"/>
-</td>
-<td align="center" valign="top" width="25%" style="border: none;">
-<h4>🔧 Ecosystem Tools</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=2" alt="Tools & Environments"/>
-</td>
-</tr>
-</table>
+
+### 🐍 Backend Core
+<img src="https://skillicons.dev/icons?i=py,django,flask,fastapi&perline=4" alt="Backend Core Stack"/>
+
+### 🎨 Frontend UI
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="Frontend UI Stack"/>
+
+### 🗄️ Database Hub
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" alt="Databases Stack"/>
+
+### 🔧 Ecosystem Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" alt="Tools & Environments"/>
+
 </div>
 
 <br/>
@@ -143,20 +136,13 @@ print(Developer().get_greeting())
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff5e00&icon_color=ff8800&text_color=c9d1d9&border_radius=10" height="195" alt="GitHub Stats"/>
-</td>
-<td valign="top" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff5e00&text_color=c9d1d9&border_radius=10&langs_count=8" height="195" alt="Top Languages"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff5e00&icon_color=ff8800&text_color=c9d1d9&border_radius=10" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff5e00&text_color=c9d1d9&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=imdash19&hide_border=true&background=0d1117&ring=ff5e00&fire=ff8800&currStreakLabel=ff5e00&sideLabels=ff8800&border_radius=10" width="100%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=imdash19&hide_border=true&background=0d1117&ring=ff5e00&fire=ff8800&currStreakLabel=ff5e00&sideLabels=ff8800&currStreakNum=ff5e00&sideNums=ff8800&dates=c9d1d9&border_radius=10" width="100%" alt="GitHub Streak"/>
 
 </div>
 
