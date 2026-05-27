@@ -1,32 +1,32 @@
 <!-- =====================================================
-     Bibhuti Bhusan Dash — Animated Profile README
+     Bibhuti Bhusan Dash — Orange Sunset Animated README
      ===================================================== -->
 
 <div align="center">
 
-<!-- ══ DYNAMIC FLOWING WAVE BANNER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,58a6ff&height=200&section=header&text=BIBHUTI%20BHUSAN%20DASH&fontSize=42&fontAlignY=45&animation=fadeIn" width="100%" alt="Flowing Wave Banner"/>
+<!-- ══ DYNAMIC ORANGE SUNSET WAVE BANNER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff7a00,ffb800&height=200&section=header&text=BIBHUTI%20BHUSAN%20DASH&fontSize=42&fontAlignY=45&animation=fadeIn" width="100%" alt="Flowing Orange Wave"/>
 
 <br/>
 
-<!-- ══ MONOSPACED TYPING CONSOLE ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Clean+Code+%7C+Continuous+Learning+%F0%9F%8C%B1;Looking+for+Junior+%2F+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing Terminal"/>
+<!-- ══ AMBER MONOSPACED TYPING CONSOLE ══ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3500&pause=1000&color=FF7A00&center=true&vCenter=true&width=750&height=60&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Clean+Code+%7C+Continuous+Learning+%F0%9F%8C%B1;Looking+for+Junior+%2F+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing Terminal"/>
 
 <br/>
 
 <!-- ══ SLEEK METRICS BADGES ══ -->
-<a href="https://linkedin.com/in/bibhuti-bhusan-dash-635195264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn Connection"/></a>
+<a href="https://linkedin.com/in/bibhuti-bhusan-dash-635195264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff7a00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn Connection"/></a>
 &nbsp;&nbsp;
-<a href="mailto:bibhutibhushandash0@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Connection"/></a>
+<a href="mailto:bibhutibhushandash0@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hello-ffb800?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Connection"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/imdash19"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Connection"/></a>
 
 <br/><br/>
 
 <!-- ══ PERFORMANCE BADGES ══ -->
-<img src="https://img.shields.io/badge/%E2%9A%A1%20Status-Open%20to%20Work-2ea043?style=flat-square&labelColor=0d1117" alt="Status Badge"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1%20Status-Open%20to%20Work-ff7a00?style=flat-square&labelColor=0d1117" alt="Status Badge"/>
 &nbsp;&nbsp;
-<img src="https://visitor-badge.laobi.icu/badge?page_id=imdash19.imdash19&left_color=0d1117&right_color=58a6ff&left_text=Core%20Visits" alt="Visitor Counter"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=imdash19.imdash19&left_color=0d1117&right_color=ff7a00&left_text=Core%20Visits" alt="Visitor Counter"/>
 
 </div>
 
@@ -43,7 +43,7 @@
 ```python
 # ==========================================
 # DIAGNOSTICS: SYSTEM ENVIRONMENT IS ACTIVE
-# PROTOCOL   : SECURE // RUNNING
+# SYSTEM COLOR: ORANGE SUNSET // ONLINE
 # ==========================================
 
 class Developer:
@@ -60,7 +60,7 @@ class Developer:
 print(Developer().get_greeting())
 ```
 
-> 🐍 **Backend Software Engineer** specializing in the design, optimization, and implementation of high-performance **REST APIs** with **Python & Django**.
+> 🐍 **Backend Software Engineer** specializing in the design, optimization, and implementation of high-speed, secure **REST APIs** with **Python & Django**.
 > 
 > 💼 **Actively looking** for a junior or entry-level software development position to build production systems and scale under elite mentorship.
 
@@ -146,17 +146,17 @@ print(Developer().get_greeting())
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="top" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" height="195" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff7a00&icon_color=ffb800&text_color=c9d1d9&border_radius=10" height="195" alt="GitHub Stats"/>
 </td>
 <td valign="top" style="border: none;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" height="195" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff7a00&text_color=c9d1d9&border_radius=10&langs_count=8" height="195" alt="Top Languages"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=imdash19&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff&sideLabels=58a6ff&border_radius=10" width="100%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=imdash19&hide_border=true&background=0d1117&ring=ff7a00&fire=ffb800&currStreakLabel=ff7a00&sideLabels=ffb800&border_radius=10" width="100%" alt="GitHub Streak"/>
 
 </div>
 
@@ -187,7 +187,7 @@ print(Developer().get_greeting())
 ## 📈 Active Pipeline Flow
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1565C0&point=58a6ff&area_color=1565C0&border_radius=10" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=ff7a00&line=ffb800&point=ff7a00&area_color=ffb800&border_radius=10" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -197,7 +197,7 @@ print(Developer().get_greeting())
 ## 💬 Code Inspiration
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&title_color=ff7a00&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Dev Quote"/>
 </div>
 
 <br/>
@@ -210,9 +210,9 @@ print(Developer().get_greeting())
 
 Let's discuss API design, Python architectures, or junior developer opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/bibhuti-bhusan-dash-635195264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff7a00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/bibhuti-bhusan-dash-635195264/)
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:bibhutibhushandash0@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-ffb800?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:bibhutibhushandash0@gmail.com)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/imdash19)
 
