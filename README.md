@@ -129,8 +129,8 @@ Developer().say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imdash19&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22D3EE&icon_color=0891b2&text_color=c9d1d9&border_radius=10" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdash19&layout=compact&hide_border=true&bg_color=0f172a&title_color=22D3EE&text_color=c9d1d9&border_radius=10" width="35%" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imdash19&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22D3EE&icon_color=0891b2&text_color=c9d1d9&border_radius=10" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imdash19&layout=compact&hide_border=true&bg_color=0f172a&title_color=22D3EE&text_color=c9d1d9&border_radius=10" width="35%" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -149,16 +149,6 @@ Developer().say_hi()
 > I prioritize **weekly contribution density**, **high-yield API design**, and **solid database engineering** over unbroken green squares.
 
 </details>
-
-<br/>
-
----
-
-## 📉 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&hide_border=true&bg_color=0f172a&title_color=22D3EE&color=22D3EE&line=0891b2&point=22D3EE&area=true&area_color=0891b2&border_radius=10" width="100%" alt="Contribution Graph"/>
-</div>
 
 <br/>
 
