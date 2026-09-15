@@ -157,7 +157,7 @@ Developer().say_hi()
 ## 📉 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&hide_border=true&bg_color=0f172a&color=22D3EE&line=0891b2&point=22D3EE&area=true&area_color=0891b2&border_radius=10" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imdash19&hide_border=true&bg_color=0f172a&title_color=22D3EE&color=22D3EE&line=0891b2&point=22D3EE&area=true&area_color=0891b2&border_radius=10" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>
