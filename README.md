@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:0891b2,100:22D3EE&height=200&section=header&text=Bibhuti%20Bhusan%20Dash&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner"/>
 
 <!-- ══ TYPING TERMINAL ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Clean+Code+%7C+Continuous+Learning+%F0%9F%8C%B1;Open+to+Junior+%2F+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing Terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Python+%26+Django+Developer+%F0%9F%90%8D;Building+Scalable+REST+APIs+%F0%9F%9A%80;Clean+Code+%7C+Continuous+Learning+%F0%9F%8C%B1;Open+to+Junior+%2F+Entry-Level+Roles+%F0%9F%92%BC" alt="Typing Terminal"/>
 
 <br/>
 
@@ -31,73 +31,54 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## 🧭 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+<div>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
 
-🐍 **Backend Software Engineer** specializing in designing and shipping high-performance, secure **REST APIs** with **Python & Django**.
+🐍 **Backend Software Engineer** specializing in high-performance, secure **REST APIs** with **Python & Django**.
 
-💼 **Actively looking** for a junior / entry-level software development role to build production systems and grow under strong mentorship.
+💼 **Actively seeking** a junior / entry-level role to build production systems and grow under mentorship.
+
+🔭 Currently focused on **API pipeline design** and **database schema architecture**.
+
+🌱 Learning **FastAPI** and **Flask** for async backend development.
+
+💬 Ask me about **Python, Django, DRF, or SQL optimization**.
+
+🌙 Fun fact: I debug best at **2 AM** — Stack Overflow is quietest then.
+
+☕ Coffee-to-code ratio: **1:1** (non-negotiable).
+</div>
+
+<br clear="both"/>
+<br/>
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name  = "Bibhuti Bhusan Dash"
-        self.role  = "Python & Django Developer"
-        self.focus = "REST APIs & Backend Architectures"
-        self.stack = ["Python", "Django", "DRF",
-                      "PostgreSQL", "React"]
-        self.open_to_work = True
+    name  = "Bibhuti Bhusan Dash"
+    role  = "Python & Django Developer"
+    stack = ["Python", "Django", "DRF", "PostgreSQL", "React"]
+    goal  = "Build clean, scalable backend systems"
 
     def say_hi(self):
-        return "Let's build something great! 🚀"
-
-Developer().say_hi()
+        return "Let's build something great together! 🚀"
 ```
-
-<br clear="both"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Quick Facts
-
-<table>
-<tr>
-<td>🔭 <b>Currently working on</b></td>
-<td>API pipeline & database schema design</td>
-</tr>
-<tr>
-<td>🌱 <b>Currently learning</b></td>
-<td>Async endpoints with FastAPI & Flask</td>
-</tr>
-<tr>
-<td>💬 <b>Ask me about</b></td>
-<td>Python, Django, DRF & SQL optimization</td>
-</tr>
-<tr>
-<td>☕ <b>Coffee-to-code ratio</b></td>
-<td>1:1 (non-negotiable)</td>
-</tr>
-<tr>
-<td>🌙 <b>Fun fact</b></td>
-<td>Peak debugging happens around 2 AM</td>
-</tr>
-</table>
 
 <br/>
 
-### 📈 Currently Learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📈 Currently Learning
 
 <div align="center">
 
-```text
-⚡ Flask Web Framework       ████████████████░░░░░░   75%
-🚀 FastAPI Async Engine      ████████████░░░░░░░░░░   60%
-```
+| Framework | Progress | Status |
+| :--- | :--- | :---: |
+| ⚡ **Flask** — Lightweight Python web framework | `████████████████░░░░ 75%` | 🔥 |
+| 🚀 **FastAPI** — Modern async Python API framework | `████████████░░░░░░░░ 60%` | 📈 |
 
 </div>
 
@@ -109,86 +90,36 @@ Developer().say_hi()
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/>
-<br/><b>Python</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/>
-<br/><b>Django</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/>
-<br/><b>Flask</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
-<br/><b>FastAPI</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-<br/><b>React</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
-<br/><b>JavaScript</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
-<br/><b>PostgreSQL</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-<br/><b>MySQL</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-<br/><b>MongoDB</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
-<br/><b>HTML5</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
-<br/><b>CSS3</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-<br/><b>Git</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-<br/><b>GitHub</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
-<br/><b>VS Code</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
-<br/><b>Postman</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-<br/><b>NumPy</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-<br/><b>Pandas</b>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" width="48" height="48" alt="JWT"/>
-<br/><b>JWT</b>
-</td>
-</tr>
-</table>
+**🐍 Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22D3EE)
+![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=22D3EE)
+![DRF](https://img.shields.io/badge/Django_REST-0f172a?style=for-the-badge&logo=django&logoColor=0891b2)
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=22D3EE)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=0891b2)
+
+**🎨 Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=22D3EE)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=0891b2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=22D3EE)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=0891b2)
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=0891b2)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=22D3EE)
+
+**🔧 Tools & Data**
+
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=22D3EE)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=0891b2)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=0891b2)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=22D3EE)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=0891b2)
+![JWT](https://img.shields.io/badge/JWT-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=22D3EE)
 
 </div>
 
@@ -198,11 +129,20 @@ Developer().say_hi()
 
 ## 📊 GitHub Stats
 
-<!-- Using rickstaa's maintained fork — the official public instance is down -->
+<!-- Using github-profile-summary-cards — the official github-readme-stats public instance is down -->
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imdash19&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22D3EE&icon_color=0891b2&text_color=c9d1d9&border_radius=10" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imdash19&layout=compact&hide_border=true&bg_color=0f172a&title_color=22D3EE&text_color=c9d1d9&border_radius=10&langs_count=8" width="42%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imdash19&theme=2077" width="100%" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imdash19&theme=2077" width="49%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imdash19&theme=2077" width="49%" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdash19&theme=2077" width="49%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imdash19&theme=2077&utcOffset=5.5" width="49%" alt="Productive Time"/>
 
 <br/><br/>
 
